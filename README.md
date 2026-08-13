@@ -39,7 +39,7 @@ The dataset contains 6,607 student records and 20 features related to academic p
 
 ## Machine Learning Model
 
-Linear Regression was used to predict students' exam scores.
+Linear Regression was used to predict student's exam scores.
 
 ## Model Performance
 
